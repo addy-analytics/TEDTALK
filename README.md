@@ -20,6 +20,7 @@ TED Talks are popular videos with subtitles in more than 100 languages featuring
 
 ## 1. Project Objectives:
 The project seeks to identify the;
+
 	•Total number of Ted Talks over the years under review
 	•Most sucessful Ted Talk per likes and views
 	•Trends of viewership over the years under review
