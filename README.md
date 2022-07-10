@@ -31,8 +31,10 @@ The project seeks to identify the;
 ##3. Data Cleaning
 	The data was uploaded into Power Query in Excel,
 	![tedtalk](https://user-images.githubusercontent.com/107724453/178152840-aa2b1fd4-fa84-4b5b-b187-dd5436ebb7dd.png)
+![TEDTALK_TRANSFORMED](https://user-images.githubusercontent.com/107724453/178153659-949d4de2-401f-408b-8b21-428df8fb85e3.png)
 
 	The data contained the date column - which was twice and transformed to obtain the Year and Month.
 	The engagement rate of Ted Talks will be helpful to our analysis, thus, a a customized column was created with the formula = [LIKES]/[VIEWS]*100
-	![TEDTALK_TRANSFORMED](https://user-images.githubusercontent.com/107724453/178153408-adc8c6d3-fd6c-46e3-a363-857b9cbb691a.png)
-
+	
+	
+	
