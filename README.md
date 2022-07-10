@@ -7,7 +7,7 @@ TED Talks are popular videos with subtitles in more than 100 languages featuring
 	•Title - Title of the Talk
 	•Author - Author of Talk
 	•Date - Date when the talk took place
-  •Views - Number of views of the Talk
+  	•Views - Number of views of the Talk
 	•Likes - Number of likes of the Talk
 	•Link - Link of the talk from ted.com
 
