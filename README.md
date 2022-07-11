@@ -27,7 +27,7 @@ The project seeks to identify the;
 
 	
 ## 2. Data Sourcing
- The data set was downloaded via this (link)[https://www.kaggle.com/datasets/daisyhart/tedtalk-dchallenger]
+ The data set was downloaded via this [link](https://www.kaggle.com/datasets/daisyhart/tedtalk-dchallenger)
 
 ##3. Data Cleaning
 	The data was uploaded into Power Query in Excel,
