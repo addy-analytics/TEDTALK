@@ -29,13 +29,15 @@ The project seeks to identify the;
 ## 2. Data Sourcing
  The data set was downloaded via this [link](https://www.kaggle.com/datasets/daisyhart/tedtalk-dchallenger)
 
-##3. Data Cleaning
+## 3. Data Cleaning
 	The data was uploaded into Power Query in Excel,
 	![tedtalk](https://user-images.githubusercontent.com/107724453/178152840-aa2b1fd4-fa84-4b5b-b187-dd5436ebb7dd.png)
 ![TEDTALK_TRANSFORMED](https://user-images.githubusercontent.com/107724453/178153659-949d4de2-401f-408b-8b21-428df8fb85e3.png)
 
 	The data contained the date column - which was twice and transformed to obtain the Year and Month.
-	The engagement rate of Ted Talks will be helpful to our analysis, thus, a a customized column was created with the formula = [LIKES]/[VIEWS]*100
+	The percentage of TED Talks that surpassed the 10 million views will also be vital to analysis. Thus, a calculated conditional column was created
+	![views](https://user-images.githubusercontent.com/107724453/178336993-07e730f0-ca10-416e-9e0c-4e20c23d834e.png)
+
 	
 	
 	
