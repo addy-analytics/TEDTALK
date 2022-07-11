@@ -1,5 +1,5 @@
 # TED TALK (1970-2022)
-A Descriptive Analysis of TedTalks from 1970-2022
+A Descriptive Analysis of TedTalks from 1970-2022 with Microsoft Excel
 
 ## Introduction
 TED Talks are popular videos with subtitles in more than 100 languages featuring knowledgeable speakers on topics like business, science, technology, and creativity. This dataset contains 6 different features of each talk available on TED's website which consists;
@@ -45,21 +45,21 @@ The project seeks to identify the;
 	•Total Views =SUM(TEDTALK_DATA[VIEWS])
 	•Total Likes =SUM(TEDTALK_DATA[LIKES])
 	•Total Speaker = =COUNTA(UNIQUE(TEDTALK_DATA[AUTHOR]))
-	
-![header](https://user-images.githubusercontent.com/107724453/178347633-f14dfe09-c0f2-49d9-a754-93e2db2e12b6.png)
 
-	A bar chart was used to visualize the Top 5 Viewed and Like Speakers. Here, Alex Gendler appeared the most viewed and liked speaker with 187 BILLION Views and 6M Likes.
+![header](https://user-images.githubusercontent.com/107724453/178351555-e4171487-9b45-4990-b321-c399d1a588b9.png)
+
+
+A bar chart was used to visualize the Top 5 Viewed and Like Speakers. Here, Alex Gendler appeared the most viewed and liked speaker with 187 BILLION Views and 6M Likes.
 	![image](https://user-images.githubusercontent.com/107724453/178349348-6b2a9e97-9c88-47a6-8a24-f15b0291d2aa.png)
 	
+A line chart was used to represent the Total Views Per Months and over the Years where we notice the month of February recording the highest views of 2 BILLION. Additionally, 2019 was the most popular year to record 1 BILLION views
 	
-	A line chart was used to represent the Total Views Per Months and over the Years where we notice the month of February recording the highest views of 2 BILLION. Additionally, 2019 was the most popular year to record 1 BILLION views
-	![image](https://user-images.githubusercontent.com/107724453/178349408-effe74b3-bd40-4906-8576-ae587765e30a.png)
-	
-	
-	Another bar chart was used in representing the Top 5 viewed TED Talks where "Do schools kill creativity" receives the highest view of 72 Million. 
-	
-	An analysis of of the TED TALKS that had above 10 million views was done and represented with a Waffle chart to conclude that 72% of all TED Talks surpassed the expected mark.
-	![image](https://user-images.githubusercontent.com/107724453/178349572-30b6be61-2834-4e3c-a9e4-158bf91f0b51.png)
+![line](https://user-images.githubusercontent.com/107724453/178351339-323b33c7-8d1b-42a5-928a-8c241bb84b5d.png)
+
+Another bar chart was used in representing the Top 5 viewed TED Talks where "Do schools kill creativity" receives the highest view of 72 Million. An analysis of of the TED TALKS that had above 10 million views was done and represented with a Waffle chart to conclude that 72% of all TED Talks surpassed the expected mark.
+
+![wc](https://user-images.githubusercontent.com/107724453/178351481-6259a4f6-66cd-460a-be34-0de59c816521.png)
+
 	
 ## 5. Data Visualization 
 ### Bringing it all together
